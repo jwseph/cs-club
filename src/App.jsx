@@ -19,7 +19,7 @@ function CardTag({href, children}) {
 
 function Card({name, quote, image, children}) {
   return (
-    <div className='max-w-96 w-full p-px bg-gradient-to-br from-slate-400 to-slate-600 rounded-lg hover:shadow-2xl hover:shadow-violet-300/10 hover:scale-105 duration-500 ease-in-out'>
+    <div className='max-w-sm w-full p-px bg-gradient-to-br from-slate-400 to-slate-600 rounded-lg hover:shadow-2xl hover:shadow-violet-300/10 hover:scale-105 duration-500 ease-in-out'>
       <div className='bg-slate-950 h-full w-full flex flex-col items-center px-8 py-8 space-y-6 rounded-lg'>
         <img src={image} className='aspect-square w-full'/>
         <div className='flex flex-col items-center space-y-1'>
