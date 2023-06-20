@@ -45,7 +45,7 @@ function App() {
               <BsYoutube className='w-8 h-8'/>
             </a>
           </div>
-          <div className='text-sm'>© 2023 Kamiak High School CS Club</div>
+          <div className='text-sm font-medium tracking-tight'>© 2023 Kamiak High School CS Club</div>
         </div>
       </div>
     </>
