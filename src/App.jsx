@@ -9,9 +9,12 @@ function App() {
     <>
       <div className='w-full h-full bg-slate-950'>
         <div className='flex flex-col w-full h-[calc(100%+40px)] py-12 px-8 lg:px-20 bg-[url("/hero.jpg")] bg-cover select-none' style={{WebkitClipPath: 'polygon(0 0,100% 0%,100% calc(100% - 40px),0 100%)'}}>
-          <nav>
-            <a href='/' className='font-semibold text-lg tracking-tighter text-white hover:opacity-50 duration-500 ease-in-out'>
-              Computer Science Club
+          <nav className='flex'>
+            <a href='/' className='flex items-center gap-1 hover:opacity-50 duration-500 ease-in-out'>
+              <img src='/csclub2.png' className='w-8 h-8'/>
+              <span className='font-semibold text-lg tracking-tighter text-white'>
+                Computer Science Club
+              </span>
             </a>
           </nav>
           <div className='flex flex-col w-full flex-1 justify-center items-start lg:items-center text-white space-y-6'>
