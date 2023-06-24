@@ -150,7 +150,7 @@ export default function App() {
         <div id='members' className='relative -translate-y-20'></div>
         <h1 className='font-extrabold tracking-tighter text-6xl'>Members</h1>
         <div className='flex flex-wrap pt-8 gap-8'>
-          <Card name='Dylan Kim' role='Web developer' quote='Hello world' image='/dylan.jpg'>
+          <Card name='Dylan Kim' role='Web developer' quote='CS club is beautiful and amazing' image='/dylan.jpg' github="KanyeMilk" instagram="Dylaniscoolerthanu">
           </Card>
           <Card name='Joseph Jackson' role='All-rounder' quote='Join CS Club!' image='/joseph.jpg' github='jwseph' instagram='jonjonwwww'>
             <CardTag href='https://kamiak.org/sniperbot'>Sniper Bot</CardTag>
