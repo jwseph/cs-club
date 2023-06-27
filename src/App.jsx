@@ -41,8 +41,8 @@ function Card({name, role, quote, image, github, instagram, children}) {
       </div>
       {(github || instagram) && (
         <div className='flex justify-center gap-3'>
-          {github && <CardSocial Icon={BsGithub} href={`https:github.com/${github}`}/>}
-          {instagram && <CardSocial Icon={BsInstagram} href={`https:instagram.com/${instagram}/`}/>}
+          {github && <CardSocial Icon={BsGithub} href={`https://github.com/${github}`}/>}
+          {instagram && <CardSocial Icon={BsInstagram} href={`https://instagram.com/${instagram}/`}/>}
         </div>
       )}
       <div className='flex flex-wrap w-full gap-3'>
