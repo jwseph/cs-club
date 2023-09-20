@@ -152,7 +152,7 @@ export default function App() {
         <div className='flex flex-wrap pt-8 gap-8'>
           <Card name='Dylan Kim' role='Web developer' quote='CS club is beautiful and amazing' image='/dylan.jpg' github="KanyeMilk" instagram="Dylaniscoolerthanu">
           </Card>
-          <Card name='Joseph Jackson' role='All-rounder' quote='Join CS Club!' image='/joseph.jpg' github='jwseph' instagram='jonjonwwww'>
+          <Card name='Joseph Jackson' role='Full-stack' quote='Join CS Club!' image='/joseph.jpg' github='jwseph' instagram='jonjonwwww'>
             <CardTag href='https://kamiak.org/sniperbot'>Sniper Bot</CardTag>
             <CardTag href='https://yuu.pages.dev'>Yuu Player</CardTag>
           </Card>
