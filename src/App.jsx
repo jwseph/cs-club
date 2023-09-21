@@ -156,6 +156,8 @@ export default function App() {
             <CardTag href='https://kamiak.org/sniperbot'>Sniper Bot</CardTag>
             <CardTag href='https://yuu.pages.dev'>Yuu Player</CardTag>
           </Card>
+          <Card name='Vivian Chen' role='Member' quote='hooray' image='/dylan.jpg' instagram="Zimbowimbo2000">
+          </Card>
         </div>
         <h1 className='pt-64 text-2xl font-semibold tracking-tight text-center'>More coming soon!</h1>
       </div>
