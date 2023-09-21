@@ -158,6 +158,8 @@ export default function App() {
           </Card>
           <Card name='Vivian Chen' role='Member' quote='hooray' image='/dylan.jpg' instagram="Zimbowimbo2000">
           </Card>
+          <Card name='Fiona Ge' role='Member' quote='aeiou' image='/dylan.jpg' github="FoG-Ge">
+          </Card>
         </div>
         <h1 className='pt-64 text-2xl font-semibold tracking-tight text-center'>More coming soon!</h1>
       </div>
