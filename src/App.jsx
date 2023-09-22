@@ -158,11 +158,11 @@ export default function App() {
           </Card>
           <Card name='Vivian Chen' role='Member' quote='hooray' image='/dylan.jpg' instagram="Zimbowimbo2000">
           </Card>
-          <Card name='Fiona Ge' role='Member' quote='aeiou' image='/dylan.jpg' github="FoG-Ge">
+          <Card name='Fiona Ge' role='Member' quote='aeiou' image='/fiona.jpg' github="FoG-Ge">
           </Card>
-          <Card name='Shawn Lu' role='Member' quote='aeiou' image='/dylan.jpg' github="FoG-Ge">
+          <Card name='Shawn Lu' role='Member' quote='aeiou' image='/dylan.jpg' github="ItalianPlumer">
           </Card>
-          <Card name='Jace Lee' role='Member' quote='aeiou' image='/dylan.jpg' github="FoG-Ge">
+          <Card name='Jace Lee' role='Member' quote='aeiou' image='/dylan.jpg' github="">
           </Card>
         </div>
         <h1 className='pt-64 text-2xl font-semibold tracking-tight text-center'>More coming soon!</h1>
